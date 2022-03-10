@@ -1,0 +1,94 @@
+body {
+    background-color: #20252B;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffff;
+}
+
+li {
+    display: inline;
+}
+
+.container {
+
+    margin: 0 97px;
+
+}
+
+.logo {
+    padding-top: 32px;
+}
+
+.nav {
+    display: flex;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 59px;
+
+}
+
+.navbar {
+
+    text-decoration: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffff;
+    margin-right: 47px;
+
+}
+
+.asf {
+    margin-left: 422px;
+}
+
+.main_img {
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 132px;
+}
+
+.s1 {
+    display: flex;
+    margin-top: 33px;
+
+}
+
+.major_img {
+    margin-left: 450px;
+}
+
+.titan_img {
+    margin-left: 425px;
+}
+
+.text1 {
+    width: 412px;
+    height: 343px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.text2 {
+    width: 438px;
+    height: 423px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.footer {
+    margin-top: 140px;
+    display: flex;
+}
+
+.link {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+}
