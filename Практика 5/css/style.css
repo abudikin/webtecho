@@ -1,3 +1,4 @@
+
 body {
     background-color: #20252B;
     font-family: 'Montserrat', sans-serif;
@@ -24,8 +25,12 @@ li {
     font-weight: 400;
     font-size: 48px;
     line-height: 59px;
-
+    position: fixed;
+    background-color:#20252B;
+    width: 100%;
+    padding-left: 97px;
 }
+
 
 .navbar {
 
